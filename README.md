@@ -1,2 +1,2 @@
 # Pacman-mini-game
-Reinforcement Learning
+A pacman mini game using Reinforcement Learning
